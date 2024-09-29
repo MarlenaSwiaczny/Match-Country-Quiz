@@ -9,5 +9,6 @@ The site was created as an exercise during the Web Development Udemy course.
 ## Technologies
 Project is created with:
 JavaScript + HTML + CSS
+PostgreSQL database
 ## Screenshots
 ![Screenshot1](./images/Screenshot%202024-09-29%20213247.png)
